@@ -1,0 +1,1 @@
+select * from TB_EMAIL_AUTH;
